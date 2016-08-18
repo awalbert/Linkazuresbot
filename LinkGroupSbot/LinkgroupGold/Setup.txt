@@ -1,0 +1,39 @@
+Dear Customer
+
+Thanks for shopping with Bestmacros!
+
+Please follow instructions:
+
+1. Install latest Microsoft .Net from here: http://www.microsoft.com/en-us/download/details.aspx?id=17851
+2. Search your license email in all email folders including Spam - search "License information" in subject of email (This is NOT email from Jvzoo), if you can't find License email, wait 1 hours and search it again.
+3. Insert you License information in Tools->License Information menu and click Save.
+4. insert Linkedin username and password in Tools->Linkedin credentials menu and click Save.
+5. Make sure you can create and save files on disk C:\
+6. Insert Subject.
+7. Insert Message.
+8. Use following keywords inside your subject:
+	FULL_NAME - Contact full name keyword
+	FIRST_NAME - Contact first name keyword
+9. Use following keywords inside your message body:
+	FULL_NAME - Contact full name keyword
+	FIRST_NAME - Contact first name keyword
+	GROUP_NAME - Group name keyword
+	FULL_INFO - Contact full info keyword (with country)
+	CURRENT_POSITION - Contact position
+	CURRENT_COMPANY - Contact company
+10. Insert Group name (exactly as it appear in LinkedIn).
+11. Insert your members filter keywords separated by comma: keyword1,keyword2,keyword3 (or check "Do not filter by keyword" if you do not want to filter by keyword).
+12. Select start page.
+13. Select number of pages to process (20 members per page).
+14. Run the bot.
+
+Please note: Messaged users IDs are saved in c:\bestmacros\blockedusers.txt and used to prevent sending messages to same contacts.
+Please note: You need latest Microsoft .Net to work with the bot, you can download it for free here:
+http://www.microsoft.com/en-us/download/details.aspx?id=17851
+
+-- 
+http://www.bestmacros.com
+Best imacros scripts for Firefox
+
+Thank you for shopping with us.
+
